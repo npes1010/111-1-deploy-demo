@@ -18,7 +18,7 @@ function ClientCounter() {
     >
       <Stack direction="column" spacing={2}>
         <Typography variant="h5" component="div">
-          Client Counter
+          Client Counter 123
         </Typography>
         <Typography variant="h2" component="div" align="center">
           {count}
