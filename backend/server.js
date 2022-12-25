@@ -2,7 +2,7 @@ import path from "path";
 
 import express from "express";
 import cors from "cors";
-// import db2 from './db';
+import db2 from './db';
 // db2.connect();
 const app = express();
 // init middleware
