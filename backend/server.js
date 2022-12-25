@@ -2,8 +2,8 @@ import path from "path";
 
 import express from "express";
 import cors from "cors";
-import db2 from './db';
-db2.connect();
+// import db2 from './db';
+// db2.connect();
 const app = express();
 // init middleware
 if (process.env.NODE_ENV === "development") {
