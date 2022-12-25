@@ -1,6 +1,7 @@
 {
   "name": "backend",
   "dependencies": {
+    "dotenv-defaults": "^5.0.2",
     "express": "^4.17.1",
     "mongoose": "^6.8.1"
   },
