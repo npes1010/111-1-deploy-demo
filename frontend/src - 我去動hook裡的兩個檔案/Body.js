@@ -9,10 +9,10 @@ import styled from 'styled-components';
 import TextField from '@material-ui/core/TextField';
 import Typography from '@material-ui/core/Typography';
 
-import { useStyles } from './hooks';
+import { useStyles } from './hooks/indexsss';
 import { api } from "./connection";
-import { useScoreCard } from './hooks/useScoreCard';
-import { ScoreCardProvider } from './hooks/useScoreCard';
+import { useScoreCard } from './useScoreCard';
+import { ScoreCardProvider } from './useScoreCard';
 const Wrapper = styled.section`
   display: flex;
   flex-direction: column;

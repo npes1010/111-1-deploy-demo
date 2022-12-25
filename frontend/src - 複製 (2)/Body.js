@@ -68,7 +68,6 @@ const Body = () => {
       console.log(message)
       console.log("@@@@@@@@@@@@")
       addCardMessage(message)
-      console.log("11111111111")
     };    //最早
   };
 
